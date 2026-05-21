@@ -1,3 +1,7 @@
 __pycache__
 *.pyc
 .git
+terraform/
+.terraform/
+*.tfstate*
+.git/
